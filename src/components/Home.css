@@ -1,0 +1,28 @@
+/* body {
+    background-color: white;
+    color: #212529;
+  }
+/* 
+  div {
+    padding: 20px;
+  } */
+
+  /* h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  } */ 
+
+ .Home{
+    /* background-image: url('./photo-1576506542790-51244b486a6b.jpg'); */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /* width: 1500px; */
+    /* height: 1000px; */
+  }
+  
